@@ -1,10 +1,11 @@
 import { Link } from 'react-router-dom';
-import UP from '../images/UP.png';
+import Logo from "../images/LOGO.png"
+
 function Header() {
   return (
     <header>
       <div>
-      <img className="my-logo" src={UP} alt="Mi imagen" />
+      <img className="my-logo" src={Logo} alt="Mi imagen" />
       </div>
       <nav>
         <ul className="nav-datos">
