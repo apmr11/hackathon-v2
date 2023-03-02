@@ -102,18 +102,22 @@ nav ul {
 #footer {
   background-color: #c9c1c1bd;
   align-self: flex-end;
-  height: 200px;
+  height: 220px;
   font-family: 'Montserrat', sans-serif;
-  line-height: 1.6;
-  text-align: center;
-
-
+  text-align: left;
+  width: 1350px;
+  
 }
 
+
 .main-content{
+  margin-left: 200px;
   font-family: 'Montserrat', sans-serif;
-  font-size: 15px;
+  font-size: 12px;
   line-height: 2.5;
+  margin-right: 200px;
+  word-spacing: 0.2em;
+
 
 }
 
